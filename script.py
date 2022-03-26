@@ -24,6 +24,7 @@ def banner():
     )
     print(colored("https://github.com/MohammadTaseenKhan/DDOS-Attack.git", 'yellow'))
     print(colored("Author: MD Taseen Khan\n\n", 'yellow'))
+    print(colored("Disclaimer: This project is fully implemented for educational purposes only and I am not responsible by any means for any misuse\n\n", 'red'))
 
 def parse_args():
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
